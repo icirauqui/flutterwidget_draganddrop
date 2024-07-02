@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flutterwidget_draganddrop.iml" filepath="$PROJECT_DIR$/flutterwidget_draganddrop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/flutterwidget_draganddrop_android.iml" filepath="$PROJECT_DIR$/android/flutterwidget_draganddrop_android.iml" />
+    </modules>
+  </component>
+</project>
